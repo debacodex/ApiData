@@ -1,12 +1,12 @@
 [
     {
         "id": "1",
-        "title": "Item 1",
+        "title": "Debashis Sabar",
         "image": "https://example.com/images/item1.jpg"
     },
     {
         "id": "2",
-        "title": "Item 2",
+        "title": "Nikita Sabar",
         "image": "https://example.com/images/item2.jpg"
     }
 ]

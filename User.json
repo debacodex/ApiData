@@ -1,33 +1,10 @@
 [
-    {
-        "id": "0",
-        "title": "Debashis Sabar",
-        "image": "https://debashiscodex.page.link/user0"
-    },
-    {
-        "id": "1",
-        "title": "Naresh Sabar",
-        "image": "https://debashiscodex.page.link/user1"
-    },
-    {
-        "id": "2",
-        "title": "Suresh Sabar",
-        "image": "https://debashiscodex.page.link/user1"
-    },
-    {
-        "id": "3",
-        "title": "Father Sabar",
-        "image": "https://debashiscodex.page.link/user1"
-    },
-    {
-        "id": "4",
-        "title": "Mother Sabar",
-        "image": "https://debashiscodex.page.link/user1"
-    },
-    {
-        "id": "5",
-        "title": "Family Sabar",
-        "image": "https://debashiscodex.page.link/user1"
-   }
-    
+  {
+    "id": "1",
+    "title": "Item 1",
+    "description": "This is a detailed description of Item 1.",
+    "image": "https://example.com/images/item1.jpg",
+    "category": "Electronics",
+    "price": "$299"
+  }
 ]

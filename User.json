@@ -10,24 +10,24 @@
         "image": "https://debashiscodex.page.link/user1"
     },
     {
-        "id": "1",
+        "id": "2",
         "title": "Suresh Sabar",
         "image": "https://debashiscodex.page.link/user1"
     },
     {
-  "id": "1",
-  "title": "Father Sabar",
-  "image": "https://debashiscodex.page.link/user1"
-},
-{
-  "id": "1",
-  "title": "Mother Sabar",
-  "image": "https://debashiscodex.page.link/user1"
-},
-{
-  "id": "1",
-  "title": "Family Sabar",
-  "image": "https://debashiscodex.page.link/user1"
-}
+        "id": "3",
+        "title": "Father Sabar",
+        "image": "https://debashiscodex.page.link/user1"
+    },
+    {
+        "id": "4",
+        "title": "Mother Sabar",
+        "image": "https://debashiscodex.page.link/user1"
+    },
+    {
+        "id": "5",
+        "title": "Family Sabar",
+        "image": "https://debashiscodex.page.link/user1"
+   }
     
 ]

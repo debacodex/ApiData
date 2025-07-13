@@ -1,7 +1,7 @@
 [
   {
     "title": "Example Item 1",
-    "subtitle": "Dekusahi",
+     "subtitle": "Dekusahi",
     "description": "This is the description for item 1.",
     "image": "https://debashiscodex.page.link/user0"
   },
@@ -11,5 +11,5 @@
     "description": "Another description for item 2.",
     "image": "https://debashiscodex.page.link/user1"
   }
-
+  
 ]

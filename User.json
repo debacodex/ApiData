@@ -1,8 +1,4 @@
 [
-    {
-        "title": "Abaram (daughter)",
-        "image_url": "https://shorturl.at/vFWtd",
-        "description": "Can You Give Me Master",
-        "short_description": "Sindising"
-    }
+  { "title": "Item 1", "image": "https://shorturl.at/vFWtd" },
+  { "title": "Item 2", "image": "https://shorturl.at/vFWtd" }
 ]

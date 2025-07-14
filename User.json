@@ -1,15 +1,15 @@
 [
   {
     "title": "Debashis Sabar",
-    "subtitle": "Dekusahi",
+    "shortDescription": "Dekusahi",
     "description": "This is the description for item 1.",
-    "image": "https://debashiscodex.page.link/user0"
+    "imageUrl": "https://debashiscodex.page.link/user0"
   },
   {
     "title": "Lovely Queen 👑",
-    "subtitle": "Unknown",
+    "shortDescription": "Unknown",
     "description": "Another description for item 2.",
-    "image": "https://debashiscodex.page.link/user1"
+    "imageUrl": "https://debashiscodex.page.link/user1"
   }
   
 ]

@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Apple",
+    "title": "Apple",
     "description": "A common fruit, typically round."
   },
   {
     "id": 2,
-    "name": "Banana",
+    "title": "Banana",
     "description": "A long, curved fruit which grows in bunches."
   },
   {
     "id": 3,
-    "name": "Orange",
+    "title": "Orange",
     "description": "A round, orange-colored citrus fruit."
   },
   {
     "id": 4,
-    "name": "Grape",
+    "title": "Grape",
     "description": "A berry, typically green, purple, red, or black."
   }
 ]

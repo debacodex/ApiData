@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Apple",
-    "image_url": "https://debashiscodex.page.link/user0",
+    "name": "Apple",
+    "imageUrl": "https://debashiscodex.page.link/user0",
     "description": "A common fruit, typically round."
   },
   {
     "id": 2,
-    "title": "Banana",
-    "image_url": "https://debashiscodex.page.link/user1",
+    "name": "Banana",
+    "imageUrl": "https://debashiscodex.page.link/user1",
     "description": "A long, curved fruit which grows in bunches."
   },
   {
     "id": 3,
-    "title": "Orange",
-    "image_url": "https://debashiscodex.page.link/user0",
+    "name": "Orange",
+    "imageUrl": "https://debashiscodex.page.link/user0",
     "description": "A round, orange-colored citrus fruit."
   },
   {
     "id": 4,
-    "title": "Grape",
-     "image_url": "https://debashiscodex.page.link/user1",
+    "name": "Grape",
+     "imageUrl": "https://debashiscodex.page.link/user1",
     "description": "A berry, typically green, purple, red, or black."
   }
 ]

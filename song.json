@@ -6,7 +6,7 @@
     "album": "Test Album",
     "duration": "3:45",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav"
+    "audio_url": "https://raw.githubusercontent.com/debacodex/ApiData/refs/heads/main/song1.MP3"
   },
   {
     "id": "2", 
@@ -15,6 +15,6 @@
     "album": "Test Album 2",
     "duration": "4:20",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav"
+    "audio_url": "https://raw.githubusercontent.com/debacodex/ApiData/refs/heads/main/song1.MP3"
   }
 ]

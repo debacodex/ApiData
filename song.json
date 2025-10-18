@@ -24,6 +24,6 @@
     "album": "Test Album 2",
     "duration": "4:20",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song1.mp3"
+    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song2.mp3"
     }
 ]
